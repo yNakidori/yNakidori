@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello-naki.png" />
+  <img src="naki.png" />
 </p>
 <p align="center">
   
