@@ -13,7 +13,7 @@
 
 
 ```diff
-< Caw - Caw
+< Main Horizon/Maggie
 
 > Estudante de desenvolvimento de software;
 > Modder e PC builder;
