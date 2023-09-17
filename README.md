@@ -9,7 +9,7 @@
   
 </p>
 
-<img align="right" height="200" style="margin-left: 25px" src="https://user-images.githubusercontent.com/127797136/227681547-8bfd8413-324e-4fb4-bfe0-695cdc12334c.gif"/>
+<img align="right" height="200" style="margin-left: 20px" src="https://user-images.githubusercontent.com/127797136/227681547-8bfd8413-324e-4fb4-bfe0-695cdc12334c.gif"/>
 
 
 ```diff
