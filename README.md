@@ -50,15 +50,13 @@
 
 </div>
 
-<div>
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cmxoyh05roga933e54d1xig7p&unique={true|1|on|yes})
-</div>
 
 <div align="center">
 <a href="https://github.com/yNakidori">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=yNakidori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yNakidori&layout=compact&langs_count=7&theme=dracula"/>
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cmxoyh05roga933e54d1xig7p&count={count})
 </div>
 
 
