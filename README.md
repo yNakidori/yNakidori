@@ -21,7 +21,7 @@
 > Unreal developer;
 > Ranked player.
 ```
-<div>
+<div align="right>
 
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cmxoyh05roga933e54d1xig7p)
 </div>
