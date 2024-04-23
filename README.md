@@ -9,8 +9,8 @@
  	<a href="https://www.twitch.tv/ynakidori" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
   
 </p>
-
-
+  
+ 
 
 ```diff
 > Web Dev & Game Dev 
@@ -20,8 +20,8 @@
 > I love dark pop;
 > Unreal developer;
 > Ranked player.
-
 ```
+
 ## 🛠 **My Tools:**
 
 <div align="center">
@@ -46,6 +46,8 @@
 
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cmxoyh05roga933e54d1xig7p)
 
 </div>
 
