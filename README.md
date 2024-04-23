@@ -2,7 +2,7 @@
   <img src="naki.png" />
 </p>
 
-<p align="center">
+<p align="right>
   
   <a href="https://www.youtube.com/@Naki.Official" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iam.nakidori/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,7 +10,6 @@
   
 </p>
 
-<img align="right" height="169" style="margin-left: 25px" src="https://user-images.githubusercontent.com/127797136/227681547-8bfd8413-324e-4fb4-bfe0-695cdc12334c.gif"/>
 
 
 ```diff
