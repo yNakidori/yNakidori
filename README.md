@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="naki.png" />
-</p>
 
 <p align="right>
   
