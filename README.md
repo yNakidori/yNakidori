@@ -1,14 +1,15 @@
 
-<p>
-  <center>
+<div align="center">
   <a href="https://www.youtube.com/@Naki.Official" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iam.nakidori/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ynakidori" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
-  </center>
-</p>
-  
- 
+</div>
 
+
+<div align="left">
+
+<p>
+  
 ```diff
 > Web Dev & Game Dev 
 
@@ -18,9 +19,13 @@
 > Unreal developer;
 > Ranked player.
 ```
-<div>
+</p>  
+</div>
 
+<div align="center">
+  
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cmxoyh05roga933e54d1xig7p)
+</div>
 </div>
 
 ## 🛠 **My Tools:**
