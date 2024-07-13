@@ -17,6 +17,7 @@
 > Casual Overclocker;
 > I love dark pop;
 > Unreal developer;
+> React Developer;
 > Ranked player.
 ```
 </p>  
