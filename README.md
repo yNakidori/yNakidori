@@ -17,7 +17,7 @@
 > Casual Overclocker;
 > I love dark pop;
 > Unreal developer;
-> React Developer;
+> React & React Native Developer;
 > Ranked player.
 ```
 </p>  
