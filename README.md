@@ -1,16 +1,5 @@
 
-<img src="/malevolent-shrine-jujutsu-kaisen.gif" width="1000" height="500"/>
-
-```diff
-> Web Dev & Game Dev 
-
-> Modder e PC builder;
-> Casual Overclocker;
-> I love dark pop;
-> Unreal developer;
-> React & React Native Developer;
-> Ranked player.
-```
+<img src="/specialz.gif" width="1000" height="500"/>
 
 <div align="center">
   <a href="https://www.youtube.com/@Naki.Official" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
