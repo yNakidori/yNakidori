@@ -1,9 +1,6 @@
 
+<img src="/malevolent-shrine-jujutsu-kaisen.gif" width="1000" height="500"/>
 
-<div align="center">
-
-![malevolent-shrine-jujutsu-kaisen](https://github.com/user-attachments/assets/9eeaad3d-37be-45ae-927a-723dbea1284b)
-</div>
 ```diff
 > Web Dev & Game Dev 
 
