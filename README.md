@@ -4,6 +4,16 @@
 
 ![malevolent-shrine-jujutsu-kaisen](https://github.com/user-attachments/assets/9eeaad3d-37be-45ae-927a-723dbea1284b)
 </div>
+```diff
+> Web Dev & Game Dev 
+
+> Modder e PC builder;
+> Casual Overclocker;
+> I love dark pop;
+> Unreal developer;
+> React & React Native Developer;
+> Ranked player.
+```
 
 <div align="center">
   <a href="https://www.youtube.com/@Naki.Official" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
