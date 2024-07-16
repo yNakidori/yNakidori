@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![jjk-jujutsu-kaisen](https://github.com/user-attachments/assets/c6c7967e-d74c-4030-9437-5c86d0684004)
+![malevolent-shrine-jujutsu-kaisen](https://github.com/user-attachments/assets/9eeaad3d-37be-45ae-927a-723dbea1284b)
 </div>
 
 <div align="center">
