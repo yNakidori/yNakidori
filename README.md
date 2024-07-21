@@ -7,7 +7,6 @@
  	<a href="https://www.twitch.tv/ynakidori" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
 </div>
 
-
 <div align="left">
 
 <p>
@@ -19,7 +18,7 @@
 > Casual Overclocker;
 > I love dark pop;
 > Unreal developer;
-> React & React Native Developer;
+> React Developer;
 > Ranked player.
 ```
 </p>  
