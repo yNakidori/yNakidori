@@ -1,19 +1,3 @@
-<div align="left">
-
-<p>
-  
-```diff
-> Web Dev & Game Dev 
-
-> Modder e PC builder;
-> Casual Overclocker;
-> I love dark pop;
-> Unreal developer;
-> React Developer;
-> Ranked player.
-```
-</p>  
-</div>
 
 ## 🛠 **My Tools:**
 
@@ -35,10 +19,39 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 </div>
 
+## ⚡ **My Stats:**
+
 <div align="center">
 <a href="https://github.com/yNakidori">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=yNakidori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yNakidori&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## 🔓 **About me:**
+
+<div align="left">
+
+<p>
+  
+```diff
+> Web Dev & Game Dev 
+
+> Modder e PC builder;
+> Casual Overclocker;
+> I love dark pop;
+> Unreal developer;
+> React Developer;
+> Ranked player.
+```
+</p>  
+</div>
+
+## ♥️ **Social:**
+
+<div align="center">
+  <a href="https://www.youtube.com/@Naki.Official" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/iam.nakidori/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ynakidori" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
 </div>
 
 <div align="center">
@@ -46,11 +59,7 @@
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cmxoyh05roga933e54d1xig7p)
 </div>
 
-<div align="center">
-  <a href="https://www.youtube.com/@Naki.Official" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/iam.nakidori/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ynakidori" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
-</div>
+
 
 <img src="/specialz.gif" width="1000" height="500"/>
 
