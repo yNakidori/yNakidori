@@ -26,6 +26,10 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yNakidori&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yNakidori&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
 ## 🔓 **About me:**
 
 <div align="left">
