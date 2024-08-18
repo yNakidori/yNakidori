@@ -41,11 +41,10 @@
 
 > Modder e PC builder;
 > Casual Overclocker;
-> I love dark pop & indie pop;
+> I love dark pop;
 > Unreal developer;
 > React/JS Developer;
 > Ranked player;
-> AKA Money-Maker
 ```
 </p>  
 </div>
