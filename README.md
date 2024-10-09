@@ -51,6 +51,7 @@
 > Casual Overclocker;
 > I love dark pop;
 > Hell's Bird Nest Leader
+>Working on a new project, still writing
 > Unreal developer;
 > React/JS/C# Developer;
 > Ranked player;
