@@ -50,8 +50,9 @@
 > Modder e PC builder;
 > Casual Overclocker;
 > I love dark pop;
+> Hell's Bird Nest Leader
 > Unreal developer;
-> React/JS Developer;
+> React/JS/C# Developer;
 > Ranked player;
 ```
 </p>  
