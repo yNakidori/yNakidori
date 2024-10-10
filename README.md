@@ -35,6 +35,21 @@
 
 <div align="center">
 
+## PC Specs 💻
+
+- **Processor: Ryzen 9 7900X3D** 🔥  
+  Unleashing extreme multi-core performance for gaming and development.
+
+- **GPU: RTX 4070 Ti Super** 🚀  
+  Delivering next-level graphics for game development and high FPS in competitive gaming.
+
+- **Memory: 64GB Corsair Dominator Platinum** 💾  
+  Blazing-fast, high-capacity RAM for smooth multitasking and handling intensive workloads.
+
+---
+This setup is ready for anything—from game dev to ranked matches, pushing performance to the limit!
+
+
 </div>
 
 
