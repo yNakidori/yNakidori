@@ -45,16 +45,34 @@
 <p>
   
 ```diff
-> Web Dev & Game Dev 
+# Welcome to Hell's Bird Nest 🪶
 
-> Modder e PC builder;
-> Casual Overclocker;
-> I love dark pop;
-> Hell's Bird Nest Leader
->Working on a new project, still writing
-> Unreal developer;
-> React/JS/C# Developer;
-> Ranked player;
+## About Me
+
+- **Web Dev & Game Dev** 🖥️🎮  
+  I work on both web and game development, exploring new technologies and pushing creative boundaries.
+
+- **Modder & PC Builder** 🛠️  
+  I love customizing hardware, building PCs, and squeezing out extra performance with casual overclocking.
+
+- **Unity Developer** 🌐  
+  Crafting immersive experiences using Unity.
+
+- **React/JS/C# Developer** 💻  
+  Building modern web applications and systems with React, JavaScript, and C#.
+
+- **Ranked Player** 🎯  
+  Competitive gaming is my passion—always striving for the top.
+
+- **Dark Pop Enthusiast** 🎵  
+  I have a love for dark pop music, which fuels my creative energy.
+
+- **Hell's Bird Nest Leader** 🪶  
+  Leading the flock—gaming, coding, and creativity at the core.
+
+## Currently working on...
+  An exciting new project—details still being written, but stay tuned!
+
 ```
 </p>  
 </div>
