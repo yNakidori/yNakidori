@@ -48,6 +48,7 @@
 
 ---
 This setup is ready for anything—from game dev to ranked matches, pushing performance to the limit!
+Also using a Nitro 5
 
 
 </div>
