@@ -41,7 +41,7 @@
 - **Processor: Ryzen 9 7900X3D** 🔥  
   Unleashing extreme multi-core performance for gaming and development.
 
-- **GPU: RX 7900 GRE Nitro+** 🚀  
+- **GPU: RTX 5080 Solid OC** 🚀  
   Delivering next-level graphics for game development and high FPS in competitive gaming.
 
 - **Memory: 64GB Corsair Dominator Platinum** 💾  
